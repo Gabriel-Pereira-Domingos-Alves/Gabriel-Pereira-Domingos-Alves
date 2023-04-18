@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel Pereira</h1>
-<h3 align="center">I have a great passion for programming, currently focused on data analysisI have a great passion for programming, currently focused on data analysis</h3>
+<h3 align="center">I have a great passion for programming, currently focused on data analysis</h3>
 
 - 🔭 I’m currently majoring in Information Systems at **Newton Paiva**
 
